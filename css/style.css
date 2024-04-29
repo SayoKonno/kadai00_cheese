@@ -49,7 +49,7 @@ header {
 
 /* トップ */
 .topm {
-    background-image: url(/html_konno_10/img/mainbg.png);
+    background-image: url(../img/mainbg.png);
     background-size: cover;
     color: white;
     font-size: 30px;
